@@ -14,6 +14,7 @@ body{
 
 .title-super{
 	font-size:60px;
+	margin-top:30px;
 }
 
 .title-logo{
@@ -21,5 +22,13 @@ body{
 }
 
 .modal-body{
-	margin-left:90px;
+	/*margin-left:90px;*/
+}
+.footer {
+	background-color:gray;
+}
+
+.about-me {
+	margin-right: auto;
+	margin-left: auto;
 }
